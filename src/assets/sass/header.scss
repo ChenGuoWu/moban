@@ -1,0 +1,19 @@
+.header{
+    height:50px;
+    background: #232af9;
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 16px;
+    color: white;
+    .headerback{
+        position: relative;
+        left: 20px;
+        top: 0px;
+    }
+    .headercontent{
+        position: relative;
+        left: -160px;
+        top: 0px;
+    }
+}

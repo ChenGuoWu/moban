@@ -1,0 +1,65 @@
+// html,body{
+//     height: 100%;
+//     overflow: hidden;
+// }
+// .addressbook{
+//     display: flex;
+//     flex-direction: column;
+//     height:100%;
+//     font-size: 14px;
+//     .addresbooksAll{
+//         flex: 1;
+//         overflow-y: auto;
+//         .addressbook-img{
+//             width: 44px;
+//             height: 44px;
+//             border-radius: 50%;
+//             background: url('~@/assets/imgage/bg.png') no-repeat no-repeat;        
+//             background-size: cover;
+//         }
+//         .addressbook-imguser{
+//             width: 44px;
+//             height: 44px;
+//             border-radius: 50%;
+//             overflow: hidden;
+            
+//             div{
+//                 width: 100%;
+//                 height: 100%;
+//                 font-size: 12px;
+//                 text-align: center;
+//                 line-height: 30px;
+//                 background: chartreuse;
+//                 line-height: 44px;
+//             }
+//         }
+//     }
+// }
+// .addressbook-text{
+//     width: 90%;
+//     margin: 0 auto;
+//     height: 60px;
+//     display: flex;
+//     justify-content: space-between;
+//     align-items: center;
+//     font-size: 16px;
+//     border-bottom: 1px solid #e4dfdf;
+    
+// }
+// .addressbook-name{
+//     width: 250px;
+// }
+// .sildesiber{
+//     width:100%;
+//     overflow-x: auto;
+//     background:#b5b6b9;
+// }
+// .siber{
+//     display: flex;
+//     height:24px;
+//     line-height: 24px;
+//     padding-left: 5px;
+//     span{
+//         flex-shrink: 0;
+//     }
+// }
